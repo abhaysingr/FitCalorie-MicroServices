@@ -215,11 +215,4 @@ The frontend application should now be running, typically accessible at `http://
 
 *(You can add a section here detailing key API endpoints and their functionalities once the project is fully operational.)*
 
-## Contributing
-
-*(Instructions for contributing to the project.)*
-
-## License
-
-*(Project license information.)*
 

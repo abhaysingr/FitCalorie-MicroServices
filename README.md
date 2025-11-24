@@ -211,8 +211,18 @@ Navigate to the `FrontEnd Part` directory.
 
 The frontend application should now be running, typically accessible at `http://localhost:5173` (or another port indicated by Vite).
 
-## API Endpoints
+## Acknowledgments
 
-*(You can add a section here detailing key API endpoints and their functionalities once the project is fully operational.)*
+This project was developed as a learning exercise following the comprehensive tutorial **"Java Full Stack Spring Boot AI Microservice Project Course"** created by **[EmbarkX | Learn Programming](https://www.youtube.com/@EmbarkX)**.
+
+I built this project to master the following concepts:
+* Microservices Architecture
+* Spring Boot & React Integration
+* AI Integration (Google Gemini)
+* Keycloak for Security
+
+A huge thank you to the original creator for sharing this knowledge. You can find the original tutorial here:
+* **Video Tutorial:** [Java Full Stack Spring Boot AI Microservice Project Course](https://youtu.be/_FdKTSFnWeg?si=Lsov4t9YWIu0OgGw)
+* **Channel:** [EmbarkX | Learn Programming](https://www.youtube.com/@EmbarkX)
 
 
